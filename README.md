@@ -49,6 +49,8 @@ Connected (press CTRL+C to quit)
 
 ### Deploy
 ご利用のサーバーにコンテナをデプロイしてください。
+[Qiita記事](https://qiita.com/komasayuki/items/592141602d78920b2d8f)ではAlibaba CloudのServerless App Engineへのデプロイを紹介しています。
+
 その際、環境変数`SECRET`の指定が必須です。
 
 
