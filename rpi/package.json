@@ -1,0 +1,22 @@
+{
+  "name": "remote-feeder-rpi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node main.ts"
+  },
+  "keywords": [],
+  "author": "komasayuki",
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "detect-rpi": "^1.4.0",
+    "rpi-gpio": "^2.1.7",
+    "ts-node": "^10.9.2",
+    "ws": "^8.14.2"
+  },
+  "devDependencies": {
+    "@types/rpi-gpio": "^2.1.4",
+    "@types/ws": "^8.5.9"
+  }
+}
